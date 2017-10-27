@@ -9,10 +9,10 @@ git clone https://github.com/miquipuig/webcam_capture.git
 ```
 #### Comandes necessaries per compilar i executar:
 ```
-$ cd hello_world_folder
+$ cd webcam_capture
 $ mkdir build
 $ cd build
 $ cmake ..
 $ make
-$ ./hello_wolrd
+$ ./webcam_capture
 ```
